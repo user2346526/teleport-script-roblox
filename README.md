@@ -1,5 +1,5 @@
-# teleport-script-roblox
-this is a simple teleport script my friend made
+# basic script roblox
+this is a simple script my friend made
 
 I don't know the compatibility with executors since he used hydrogen to test it and it worked
 # Instructions of use
